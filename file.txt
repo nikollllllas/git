@@ -1,2 +1,3 @@
-texto teste
+git add . - adiciona tudo
+git commit -m "mensagem" - para commitar
 
