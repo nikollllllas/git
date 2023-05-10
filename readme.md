@@ -2,7 +2,7 @@
 
 - Learning github
 
-1. I know hot to push modifications to Github
+1. I know how to push modifications to Github
 
 2. Two (?)
 
